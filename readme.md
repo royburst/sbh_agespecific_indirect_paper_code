@@ -1,4 +1,4 @@
-# Code for *PLOS Medicine* Submission "A new method for indirect estimation of neonatal, infant, and child mortality" 
+# Code for *PLOS Medicine* Article "Development and validation of a new method for indirect estimation of neonatal, infant, and child mortality" 
 
 This repository hold all code used to run the analysis and produce the figures for this paper. 
 
